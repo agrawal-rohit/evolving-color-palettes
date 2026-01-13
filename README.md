@@ -6,7 +6,7 @@
 
 <br />
 
-![Demo](https://cdn.rohit-agrawal.com/oss/color-crunch/github-readme-preview.gif)
+![Demo](https://cdn.rohit-agrawal.com/oss/evolving-color-palettes/github-readme-preview.gif)
 
 </div>
 
